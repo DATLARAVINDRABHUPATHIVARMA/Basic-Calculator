@@ -9,4 +9,4 @@ const ButtonsContainer = () => {
 };
 
 export default ButtonsContainer;
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis voluptatibus adipisci porro vel est accusamus aut, tempore praesentium! Saepe sapiente ut nam id illo vel odio quis.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis voluptatibus adipisci porro vel est accusamus aut, tempore praesentium! Saepe sapiente ut nam id.
