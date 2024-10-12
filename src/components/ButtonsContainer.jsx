@@ -9,4 +9,4 @@ const ButtonsContainer = () => {
 };
 
 export default ButtonsContainer;
- symbols needs to be added.
+ symbol WaveShaperNoder
