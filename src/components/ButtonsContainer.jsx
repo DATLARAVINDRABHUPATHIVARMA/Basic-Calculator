@@ -10,4 +10,4 @@ const ButtonsContainer = () => {
 
 export default ButtonsContainer;
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, natus. Provident rerum dolorem in sunt sint modi temporibus adipisci molestias. Consectetur blanditiis qui a fuga 
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, natus. Provident rerum dolorem in sunt sint modi temporibus adipisci molestias. Consectetur.
