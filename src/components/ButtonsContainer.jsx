@@ -9,5 +9,3 @@ const ButtonsContainer = () => {
 };
 
 export default ButtonsContainer;
-
-Lorem ips.
