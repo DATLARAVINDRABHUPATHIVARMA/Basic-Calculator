@@ -9,4 +9,4 @@ const ButtonsContainer = () => {
 };
 
 export default ButtonsContainer;
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa quod tempora aliquid  fugiat?
+Lorem ipsum dolor sit amet consectetur adipisicing ElementInternals.
