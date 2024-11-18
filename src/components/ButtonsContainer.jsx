@@ -9,4 +9,4 @@ const ButtonsContainer = () => {
 };
 
 export default ButtonsContainer;
-Lorem ipsum dolor sit amet qrkjqu.
+Lorem ipsum dolor sit amet.
