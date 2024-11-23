@@ -1,8 +1,9 @@
 const ButtonsContainer = () => {
+  const buttonNames = ["AC", "C", "%", "^", "!", "/", "7", "8", "9", "*", "4", "5", "6", "-", "1", "2", "3", "+", "0", ".", "=", "e", "(", ")", "sin", "cos", "tan", "log", "sqrt", "pi", "sigma"];
+
   return (
     <div className="buttons-container">
-      <button className="button">C</button>
-      <button className="button">CA</button>
+      {buttonNames.map((name) => <button key={name} className="button">{name}</button>)}
     </div>
   );
 };
