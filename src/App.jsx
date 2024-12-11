@@ -1,7 +1,7 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import Display from "./components/Display";
-import ButtonsContainer from "./components/ButtonsContainer";
+import Display from "./components/Display.jsx";
+import ButtonsContainer from "./components/ButtonsContainer.jsx";
 
 function App() {
   return (
