@@ -4,4 +4,4 @@ const Display = () => {
 
 export default Display;
 
-Lorem, ipsum 
+Lorem
