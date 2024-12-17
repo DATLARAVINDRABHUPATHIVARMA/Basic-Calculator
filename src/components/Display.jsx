@@ -3,5 +3,3 @@ const Display = () => {
 }
 
 export default Display;
-
-Lorem
