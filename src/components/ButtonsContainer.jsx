@@ -4,6 +4,7 @@ const ButtonsContainer = () => {
       <button className="button">C</button>
       <button className="button">C</button>
       <button className="button">C</button>
+      <button className="button">C</button>
     </div>
   );
 };
