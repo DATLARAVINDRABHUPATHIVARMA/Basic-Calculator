@@ -3,7 +3,6 @@ const ButtonsContainer = () => {
     <div className="buttons-container">
       <button className="button">C</button>
       <button className="button">C</button>
-      <button className="button">C</button>
     </div>
   );
 };
