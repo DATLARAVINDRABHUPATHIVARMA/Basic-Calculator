@@ -3,7 +3,7 @@ const ButtonsContainer = () => {
   
   return (
     <div className="buttons-container">
-      { buttonNames.map((name) => <button key={name} className="button">{name}</button>) }
+      {buttonNames.map((name) => <button key={name} className="button">{name}</button>)}
     </div>
   );
 };
