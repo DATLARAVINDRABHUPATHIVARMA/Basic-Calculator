@@ -9,7 +9,7 @@ function App() {
       <Display></Display>
       <ButtonsContainer></ButtonsContainer>
     </div>
-  );
+  )
 }
 
 export default App;
