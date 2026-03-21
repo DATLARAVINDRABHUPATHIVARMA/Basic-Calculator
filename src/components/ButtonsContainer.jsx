@@ -7,4 +7,5 @@ const ButtonsContainer = () => {
     </div>
   );
 };
+
 export default ButtonsContainer;
