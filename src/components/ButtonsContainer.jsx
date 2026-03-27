@@ -5,7 +5,7 @@ const ButtonsContainer = () => {
     <div className="buttons-container">
       {buttonNames.map((name) => <button key={name} className="button">{name}</button>)}
     </div>
-  )
+  );
 };
 
 export default ButtonsContainer;
