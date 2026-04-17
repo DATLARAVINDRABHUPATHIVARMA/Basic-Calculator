@@ -10,6 +10,6 @@ function App() {
       <ButtonsContainer></ButtonsContainer>
     </div>
   );
-}
+};
 
 export default App;
